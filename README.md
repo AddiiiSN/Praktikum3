@@ -2,6 +2,7 @@
 ## Praktikum 3
 
 
+### Superclass Pegawai
 Membuat Class Pegawai Sebagai Superclass 
 dan menambahkan atribut nama serta gaji pokok
 
@@ -100,4 +101,5 @@ Method cetakInfo digunakan untuk menampilkan data nama pegawai dan gaji pokok.
                 }
             }
 
+![Screenshot (11)](https://user-images.githubusercontent.com/115928747/199700831-676bd654-77ca-4ed2-bf28-22fc06fe9e95.png)
 
